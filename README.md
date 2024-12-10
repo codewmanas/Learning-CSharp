@@ -8,8 +8,8 @@ This repository is a complete guide for anyone looking to learn **C#** — start
 
 ## Table of Contents
 
-1. [C# Basics](#1-c-basics)
-2. [Operators in C#](#2-operators-in-c)
+1. [C# Basics](#1-csharp-basics)
+2. [Operators in C#](#2-operators-in-csharp)
 3. [Conditionals & Loops](#3-conditionals--loops)
 4. [Functions](#4-functions)
 5. [Exception Handling](#5-exception-handling)
