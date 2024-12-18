@@ -114,4 +114,4 @@ This repository is a complete guide for anyone looking to learn **C#** — start
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/learning-csharp.git
+   git clone https://github.com/codewmanas/CSharp.git
